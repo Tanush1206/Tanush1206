@@ -51,7 +51,7 @@ No activity tracked
 
 - 🤝 I’m looking for help with **AASRAH**
 
-- 👨‍💻 All of my projects are available at [https://tanush-thakran-portfolio.netlify.app/](https://tanush-thakran-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tanush-thakran-portfolio.netlify.app/projects](https://tanush-thakran-portfolio.netlify.app/projects)
 
 - 💬 Ask me about **RAG, embeddings, vector search, FastAPI, Next.js**
 
