@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Tanush Thakran</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tanush Thakran
+=======================================================================================================================================
 
-<p align="center">
-  <b>Developer • AI/ML Enthusiast • Computer Science Student</b>
-</p>
+Machine Learning & Data Science · NLP · Retrieval-Augmented Generation · Python (Pandas · NumPy · scikit-learn)
+---------------------------------------------------------------------------------------------------------------
 
----
+Computer Science undergraduate building applied ML systems end to end — from data ingestion and embedding generation through retrieval, evaluation and deployment. Built a local RAG pipeline handling transcription, chunking, vector representation and cosine-similarity retrieval, tuned against a manually labelled evaluation set rather than by inspection. Equally comfortable on the analysis side: SQL, statistical validation and BI reporting. Seeking a Machine Learning or Data Science role where model quality is measured, not assumed.
+
+* 🌍  I'm based in West Delhi , Delhi , India
+* 🖥️  See my portfolio at [MyPortfolio](http://tanush-thakran-portfolio.netlify.app/)
+* ✉️  You can contact me at [tanushthakran@gmail.com](mailto:tanushthakran@gmail.com)
 
 ## 📊 GitHub Stats
 
@@ -54,8 +58,6 @@ No activity tracked
 - 👨‍💻 All of my projects are available at [https://tanush-thakran-portfolio.netlify.app/projects](https://tanush-thakran-portfolio.netlify.app/projects)
 
 - 💬 Ask me about **RAG, embeddings, vector search, FastAPI, Next.js**
-
-- 📫 How to reach me **tanushthakran@gmail.com**
 
 - 📄 Know about my experiences [https://tanush-thakran-portfolio.netlify.app/experience](https://tanush-thakran-portfolio.netlify.app/experience)
 
