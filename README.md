@@ -31,7 +31,7 @@ Computer Science undergraduate building applied ML systems end to end — from d
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 August 2026 - To: 26 August 2026
+From: 20 August 2026 - To: 27 August 2026
 
 Total Time: 9 hrs 37 mins
 
